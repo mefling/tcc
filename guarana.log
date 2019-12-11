@@ -1,0 +1,23 @@
+dez 02, 2019 1:54:31 AM guarana.toolkit.task.communicators.dummy.InDummyCommunicator <init>
+INFO: In-Communicator "Communicator@User" created successfully!
+dez 02, 2019 1:54:31 AM guarana.toolkit.task.communicators.dummy.OutDummyCommunicator <init>
+INFO: Out-DummyCommunicator "Communicator@Exit" created!
+dez 02, 2019 1:54:31 AM guarana.toolkit.engine.Worker doWork
+INFO: -> Worker "WorkerThread-1" has started!
+dez 02, 2019 1:54:31 AM guarana.toolkit.engine.Scheduler startMonitors
+INFO: Work Queue monitoring has been ACTIVATED!
+dez 02, 2019 1:54:31 AM guarana.toolkit.engine.Scheduler startMonitors
+INFO: Workers monitoring has been ACTIVATED!
+dez 02, 2019 1:54:31 AM guarana.toolkit.engine.Scheduler startMonitors
+INFO: Memory monitoring has been ACTIVATED!
+dez 02, 2019 1:54:35 AM guarana.toolkit.engine.Scheduler stopMonitors
+INFO: Work Queue monitoring has been STOPED!
+dez 02, 2019 1:54:35 AM guarana.toolkit.engine.Scheduler stopMonitors
+INFO: Workers monitoring has been STOPED!
+dez 02, 2019 1:54:37 AM guarana.toolkit.engine.Scheduler stopMonitors
+INFO: Memory monitoring has been STOPED!
+dez 02, 2019 1:54:37 AM guarana.toolkit.engine.Worker doWork
+INFO: -> Worker "WorkerThread-1" has stopped!
+dez 02, 2019 1:54:37 AM guarana.toolkit.engine.Scheduler stop
+INFO: There were still 0 tasks in queue to be processed at the time the Scheduler stoped!
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XMLFINAL>
+    <name>Thainan</name>
+    <cpf>00000000000</cpf>
+    <banksAndInterests>
+        <bankAndInterest>bankX: 5</bankAndInterest>
+        <bankAndInterest>bankY: 10</bankAndInterest>
+        <bankAndInterest>bankZ: 15</bankAndInterest>
+    </banksAndInterests>
+</XMLFINAL>

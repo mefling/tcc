@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<experiment>
+
+    <repeat>1</repeat>
+    <arrival-rates>10</arrival-rates>
+    <threads>1</threads>    
+    <number-of-messages>1</number-of-messages>
+    <stats-folder>./cafe-full-stats/</stats-folder>
+    
+</experiment>

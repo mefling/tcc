@@ -1,0 +1,4395 @@
+Starting system at -------------> Tue Mar 21 12:06:45 BRT 2017 [1/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Tue Mar 21 12:06:46 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53996664 min (Actual time)
+Starting system at -------------> Tue Mar 21 12:08:18 BRT 2017 [2/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Tue Mar 21 12:08:18 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6012 min (Actual time)
+Starting system at -------------> Tue Mar 21 12:09:54 BRT 2017 [3/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Tue Mar 21 12:09:54 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6011833 min (Actual time)
+Starting system at -------------> Tue Mar 21 12:11:30 BRT 2017 [4/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Tue Mar 21 12:11:30 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.568 min (Actual time)
+Starting system at -------------> Tue Mar 21 12:13:04 BRT 2017 [5/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Tue Mar 21 12:13:04 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.601 min (Actual time)
+Starting system at -------------> Thu Mar 23 08:58:16 BRT 2017 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 08:58:17 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.57516664 min (Actual time)
+Starting system at -------------> Thu Mar 23 08:59:51 BRT 2017 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 08:59:51 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60135 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:01:27 BRT 2017 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:01:27 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56785 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:03:01 BRT 2017 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:03:01 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60131663 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:04:37 BRT 2017 [5/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:04:38 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60125 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:06:14 BRT 2017 [6/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:06:14 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60135 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:07:50 BRT 2017 [7/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:07:50 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60123336 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:09:26 BRT 2017 [8/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:09:26 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6011167 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:11:02 BRT 2017 [9/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:11:02 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6011167 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:12:38 BRT 2017 [10/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:12:38 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60113335 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:14:14 BRT 2017 [11/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:14:14 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6012167 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:15:50 BRT 2017 [12/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:15:50 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6011 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:17:26 BRT 2017 [13/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:17:26 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60095 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:19:03 BRT 2017 [14/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:19:03 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56763333 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:20:37 BRT 2017 [15/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:20:37 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6009833 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:22:13 BRT 2017 [16/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:22:13 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60103333 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:23:49 BRT 2017 [17/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:23:49 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60095 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:25:25 BRT 2017 [18/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:25:25 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5677667 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:26:59 BRT 2017 [19/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:26:59 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6009833 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:28:35 BRT 2017 [20/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:28:35 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6016834 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:30:11 BRT 2017 [21/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:30:11 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6020166 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:31:48 BRT 2017 [22/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:31:48 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60186666 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:33:24 BRT 2017 [23/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:33:24 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60183334 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:35:00 BRT 2017 [24/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:35:00 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6018833 min (Actual time)
+Starting system at -------------> Thu Mar 23 09:36:36 BRT 2017 [25/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 23 09:36:36 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6016167 min (Actual time)
+Starting system at -------------> Fri Mar 24 14:53:26 BRT 2017 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Mar 24 14:53:27 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Mar 29 17:37:22 BRT 2017 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:37:23 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,27 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5833833 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:38:57 BRT 2017 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:38:57 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60045 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:40:33 BRT 2017 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:40:33 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6004167 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:42:09 BRT 2017 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:42:09 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5673167 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:43:43 BRT 2017 [5/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:43:43 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6004 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:45:19 BRT 2017 [6/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:45:19 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6004167 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:46:56 BRT 2017 [7/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:47:09 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.95065004 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:48:53 BRT 2017 [8/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:48:53 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60036665 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:50:29 BRT 2017 [9/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:50:29 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60038334 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:52:05 BRT 2017 [10/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:52:14 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 1.1684667 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:54:15 BRT 2017 [11/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:54:16 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56866664 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:55:51 BRT 2017 [12/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:56:02 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.8808333 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:57:44 BRT 2017 [13/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:57:44 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6004 min (Actual time)
+Starting system at -------------> Wed Mar 29 17:59:20 BRT 2017 [14/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 17:59:27 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 1.51035 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:01:51 BRT 2017 [15/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:01:53 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6315 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:03:29 BRT 2017 [16/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:03:29 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56705 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:05:03 BRT 2017 [17/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:05:03 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6001333 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:06:39 BRT 2017 [18/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:06:39 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56703335 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:08:13 BRT 2017 [19/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:08:13 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6001333 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:09:49 BRT 2017 [20/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:09:49 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5670666 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:11:23 BRT 2017 [21/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:11:23 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60036665 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:12:59 BRT 2017 [22/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:12:59 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60036665 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:14:35 BRT 2017 [23/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:14:35 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56705 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:16:09 BRT 2017 [24/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:16:09 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60036665 min (Actual time)
+Starting system at -------------> Wed Mar 29 18:17:45 BRT 2017 [25/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Mar 29 18:17:45 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5673167 min (Actual time)
+Starting system at -------------> Wed Apr 05 19:51:23 BRT 2017 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 19:51:24 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5875667 min (Actual time)
+Starting system at -------------> Wed Apr 05 19:52:58 BRT 2017 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 19:52:58 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60123336 min (Actual time)
+Starting system at -------------> Wed Apr 05 19:54:34 BRT 2017 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 19:54:34 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6012667 min (Actual time)
+Starting system at -------------> Wed Apr 05 19:56:10 BRT 2017 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 19:56:11 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6016834 min (Actual time)
+Starting system at -------------> Wed Apr 05 19:57:47 BRT 2017 [5/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 19:57:47 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6011 min (Actual time)
+Starting system at -------------> Wed Apr 05 19:59:23 BRT 2017 [6/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 19:59:23 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60316664 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:01:00 BRT 2017 [7/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:01:02 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.92815 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:02:56 BRT 2017 [8/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:02:56 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60125 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:04:32 BRT 2017 [9/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:04:32 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6011833 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:06:08 BRT 2017 [10/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:06:08 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60108334 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:07:44 BRT 2017 [11/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:07:44 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60108334 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:09:20 BRT 2017 [12/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:09:20 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60095 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:10:56 BRT 2017 [13/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:10:56 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6009167 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:12:32 BRT 2017 [14/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:12:33 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60288334 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:14:09 BRT 2017 [15/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:14:17 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 1.69595 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:16:51 BRT 2017 [16/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:16:51 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6009833 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:18:27 BRT 2017 [17/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:18:32 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 1.4382833 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:20:53 BRT 2017 [18/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:20:53 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60095 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:22:30 BRT 2017 [19/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:22:30 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.601 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:24:06 BRT 2017 [20/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:24:09 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 1.278 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:26:23 BRT 2017 [21/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:26:23 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 1.9019834 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:29:17 BRT 2017 [22/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:29:17 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5685167 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:30:51 BRT 2017 [23/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:30:51 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56865 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:32:25 BRT 2017 [24/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:32:25 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6016333 min (Actual time)
+Starting system at -------------> Wed Apr 05 20:34:01 BRT 2017 [25/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Apr 05 20:34:01 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6016167 min (Actual time)
+Starting system at -------------> Sat Jun 24 16:37:30 BRT 2017 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jun 24 16:37:30 BRT 2017
+Number of messages produced: 1000
+Actual production time ---------> 0,3 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Sun Mar 25 14:13:54 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Mar 25 14:13:55 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Thu Mar 29 12:08:16 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Mar 29 12:08:16 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Mon May 28 18:16:07 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Mon May 28 18:16:07 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6073 min (Actual time)
+Starting system at -------------> Mon May 28 18:17:43 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Mon May 28 18:17:43 BRT 2018
+Starting system at -------------> Fri Jun 15 22:51:12 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jun 15 22:51:13 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.54864997 min (Actual time)
+Starting system at -------------> Fri Jun 15 22:52:45 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jun 15 22:52:45 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Fri Jun 15 23:48:04 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jun 15 23:48:04 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Sat Jun 16 00:18:16 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jun 16 00:18:16 BRT 2018
+Starting system at -------------> Sat Jun 16 00:19:31 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jun 16 00:19:31 BRT 2018
+Starting system at -------------> Sat Jun 16 00:19:50 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jun 16 00:19:50 BRT 2018
+Starting system at -------------> Sat Jun 16 00:29:25 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jun 16 00:29:25 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Sun Jul 01 00:03:16 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:03:16 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Sun Jul 01 00:03:50 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:03:50 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Sun Jul 01 00:04:11 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:04:11 BRT 2018
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,19 min
+Message production finished!
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5384333 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:04:48 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:04:48 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5718 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:05:24 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:05:24 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Run for: 0.5369333 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:05:43 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:05:43 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5675333 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:06:22 BRT 2018 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:06:22 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56775 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:06:58 BRT 2018 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:06:58 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53431666 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:07:54 BRT 2018 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:07:54 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5344166 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:08:30 BRT 2018 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:08:30 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53478336 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:09:26 BRT 2018 [5/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:09:27 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53473336 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:10:02 BRT 2018 [5/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:10:03 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53531665 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:10:59 BRT 2018 [6/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:10:59 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6027334 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:11:39 BRT 2018 [6/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:11:39 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5677667 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:12:33 BRT 2018 [7/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:12:33 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56841666 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:13:13 BRT 2018 [7/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:13:13 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5681 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:14:07 BRT 2018 [8/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:14:07 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53475 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:14:45 BRT 2018 [8/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:14:45 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5348 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:15:39 BRT 2018 [9/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:15:39 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56803334 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:16:19 BRT 2018 [9/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:16:19 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53443336 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:17:11 BRT 2018 [10/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:17:11 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5342167 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:17:51 BRT 2018 [10/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:17:51 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5351 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:18:43 BRT 2018 [11/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:18:43 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56775 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:19:25 BRT 2018 [11/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:19:25 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53425 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:20:15 BRT 2018 [12/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:20:16 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53429997 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:20:57 BRT 2018 [12/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:20:58 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56745 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:21:50 BRT 2018 [13/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:21:50 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56773335 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:22:32 BRT 2018 [13/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:22:32 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5678666 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:23:24 BRT 2018 [14/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:23:24 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56813335 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:24:06 BRT 2018 [14/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:24:06 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5698 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:24:58 BRT 2018 [15/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:24:58 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5676 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:25:40 BRT 2018 [15/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:25:40 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5341833 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:26:30 BRT 2018 [16/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:26:30 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5341833 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:27:12 BRT 2018 [16/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:27:12 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5688833 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:28:04 BRT 2018 [17/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:28:04 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,19 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5679833 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:28:46 BRT 2018 [17/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:28:46 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53496665 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:29:36 BRT 2018 [18/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:29:37 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.568 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:30:20 BRT 2018 [18/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:30:20 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5349333 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:31:09 BRT 2018 [19/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:31:09 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56763333 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:31:54 BRT 2018 [19/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:31:54 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5347666 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:32:41 BRT 2018 [20/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:32:41 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5679 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:33:28 BRT 2018 [20/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:33:29 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5675333 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:34:15 BRT 2018 [21/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:34:15 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6013334 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:35:05 BRT 2018 [21/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:35:05 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5345667 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:35:47 BRT 2018 [22/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:35:47 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.56808335 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:36:39 BRT 2018 [22/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:36:39 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53433335 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:37:19 BRT 2018 [23/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:37:19 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6015333 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:38:15 BRT 2018 [23/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:38:15 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6013334 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:38:55 BRT 2018 [24/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:38:55 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.60135 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:39:51 BRT 2018 [24/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:39:51 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.53438336 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:40:27 BRT 2018 [25/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:40:27 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.6013 min (Actual time)
+Starting system at -------------> Sun Jul 01 00:41:27 BRT 2018 [25/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sun Jul 01 00:41:27 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Run for: 0.5678167 min (Actual time)
+Run for: 0.5344667 min (Actual time)
+Starting system at -------------> Wed Jul 11 01:32:16 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 01:32:16 BRT 2018
+Starting system at -------------> Wed Jul 11 01:35:07 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 01:35:08 BRT 2018
+Starting system at -------------> Wed Jul 11 01:45:30 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 01:45:31 BRT 2018
+Starting system at -------------> Wed Jul 11 19:54:14 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 19:54:15 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Outputs: 1000
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 20000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 20:13:58 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting system at -------------> Wed Jul 11 20:14:39 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:14:40 BRT 2018
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Number of work units processed: 0
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 20:16:22 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:16:22 BRT 2018
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Number of work units processed: 0
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 20:17:16 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:17:16 BRT 2018
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Number of work units processed: 0
+System stopped!
+Cleaning up heap...
+Run for: 0.20398334 min (Actual time)
+Starting system at -------------> Wed Jul 11 20:17:34 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:17:34 BRT 2018
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Number of work units processed: 0
+System stopped!
+Cleaning up heap...
+Run for: 0.23428334 min (Actual time)
+Starting system at -------------> Wed Jul 11 20:18:48 BRT 2018 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:18:48 BRT 2018
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Number of work units processed: 0
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 20:19:34 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:19:35 BRT 2018
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Number of work units processed: 0
+System stopped!
+Cleaning up heap...
+Run for: 0.2048 min (Actual time)
+Starting system at -------------> Wed Jul 11 20:20:47 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:20:47 BRT 2018
+Shutting down the solution...
+Stopping workers...
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Number of work units processed: 0
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 20:26:24 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:26:24 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 6000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 20:28:34 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:28:34 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:31:22 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:31:22 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 6000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 20:33:52 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:33:53 BRT 2018
+Starting system at -------------> Wed Jul 11 20:35:04 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:35:04 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:36:53 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:36:53 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:40:56 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:40:56 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:41:40 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:41:40 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:43:19 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:43:19 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:44:10 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:44:10 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 6000
+System stopped!
+Cleaning up heap...
+Run for: 0.5706 min (Actual time)
+Starting system at -------------> Wed Jul 11 20:45:44 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:45:44 BRT 2018
+Starting system at -------------> Wed Jul 11 20:45:54 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:45:54 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:48:19 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:48:19 BRT 2018
+Starting system at -------------> Wed Jul 11 20:49:08 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:49:09 BRT 2018
+Starting system at -------------> Wed Jul 11 20:50:40 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:50:41 BRT 2018
+Starting system at -------------> Wed Jul 11 20:51:48 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:51:48 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 20:52:34 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 20:52:34 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:00:34 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:00:34 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:03:59 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:03:59 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:04:47 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:04:47 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:05:32 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:05:33 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:06:22 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:06:23 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:07:00 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:07:00 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:07:48 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:07:48 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:09:06 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:09:06 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 7000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 21:10:19 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:10:20 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 7000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 21:11:30 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:11:31 BRT 2018
+Starting system at -------------> Wed Jul 11 21:15:18 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:15:19 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 7000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 21:16:13 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:16:13 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:17:28 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:17:28 BRT 2018
+Starting system at -------------> Wed Jul 11 21:17:54 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:17:54 BRT 2018
+Starting system at -------------> Wed Jul 11 21:18:19 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:18:20 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:18:51 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:18:51 BRT 2018
+Starting system at -------------> Wed Jul 11 21:19:11 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:19:11 BRT 2018
+Starting system at -------------> Wed Jul 11 21:19:38 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:19:38 BRT 2018
+Starting system at -------------> Wed Jul 11 21:20:57 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:20:57 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:22:08 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:22:08 BRT 2018
+Starting system at -------------> Wed Jul 11 21:23:30 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:23:30 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:25:35 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:25:35 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:27:26 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:27:26 BRT 2018
+Starting system at -------------> Wed Jul 11 21:34:16 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:34:16 BRT 2018
+Starting system at -------------> Wed Jul 11 21:38:12 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:38:12 BRT 2018
+Starting system at -------------> Wed Jul 11 21:39:59 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:39:59 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:41:07 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:41:07 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:41:49 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:41:50 BRT 2018
+Starting system at -------------> Wed Jul 11 21:42:15 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:42:15 BRT 2018
+Starting system at -------------> Wed Jul 11 21:42:30 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:42:30 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,17 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:43:28 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:43:28 BRT 2018
+Starting system at -------------> Wed Jul 11 21:44:38 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:44:38 BRT 2018
+Starting system at -------------> Wed Jul 11 21:45:11 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:45:11 BRT 2018
+Starting system at -------------> Wed Jul 11 21:45:34 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:45:34 BRT 2018
+Starting system at -------------> Wed Jul 11 21:45:43 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:45:44 BRT 2018
+Starting system at -------------> Wed Jul 11 21:46:00 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:46:01 BRT 2018
+Starting system at -------------> Wed Jul 11 21:46:23 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:46:23 BRT 2018
+Starting system at -------------> Wed Jul 11 21:46:36 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:46:36 BRT 2018
+Starting system at -------------> Wed Jul 11 21:46:49 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:46:49 BRT 2018
+Starting system at -------------> Wed Jul 11 21:49:54 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:49:54 BRT 2018
+Starting system at -------------> Wed Jul 11 21:50:36 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:50:36 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:51:44 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:51:44 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:53:09 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:53:09 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:55:12 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:55:12 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 21:56:27 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:56:27 BRT 2018
+Starting system at -------------> Wed Jul 11 21:57:09 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 21:57:09 BRT 2018
+Starting system at -------------> Wed Jul 11 22:02:52 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:02:53 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 22:04:59 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:04:59 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 22:08:01 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:08:01 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 12000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 22:08:44 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:08:44 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 22:10:12 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:10:12 BRT 2018
+Starting system at -------------> Wed Jul 11 22:11:51 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:11:51 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 22:13:19 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:13:20 BRT 2018
+Starting system at -------------> Wed Jul 11 22:14:39 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:14:39 BRT 2018
+Starting system at -------------> Wed Jul 11 22:16:03 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:16:04 BRT 2018
+Starting system at -------------> Wed Jul 11 22:16:42 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:16:42 BRT 2018
+Starting system at -------------> Wed Jul 11 22:29:00 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:29:01 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 22:30:18 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:30:19 BRT 2018
+Starting system at -------------> Wed Jul 11 22:37:57 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:37:57 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 13000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 22:39:35 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:39:35 BRT 2018
+Starting system at -------------> Wed Jul 11 22:40:00 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:40:01 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 13000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 22:42:09 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:42:10 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 13000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Wed Jul 11 22:44:02 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:44:02 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Wed Jul 11 22:45:05 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:45:06 BRT 2018
+Starting system at -------------> Wed Jul 11 22:48:31 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Wed Jul 11 22:48:31 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Thu Jul 12 19:07:42 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Thu Jul 12 19:07:42 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Starting system at -------------> Fri Jul 13 20:37:26 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:37:26 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Starting system at -------------> Fri Jul 13 20:38:02 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:38:02 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Fri Jul 13 20:38:48 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:38:48 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,27 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.70985 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:39:44 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:39:44 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.74165 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:40:32 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:40:32 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5718334 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:41:19 BRT 2018 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:41:19 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5385 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:42:05 BRT 2018 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:42:05 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5718334 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:42:53 BRT 2018 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:42:53 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5718334 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:43:39 BRT 2018 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:43:39 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.53823334 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:44:25 BRT 2018 [5/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:44:25 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Starting system at -------------> Fri Jul 13 20:44:53 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:44:53 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,26 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5413834 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:46:25 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:46:26 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,23 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.7363833 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:48:10 BRT 2018 [3/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:48:10 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,19 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.9386333 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:50:06 BRT 2018 [4/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:50:06 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.76895005 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:51:52 BRT 2018 [5/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:51:52 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.7348833 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:53:37 BRT 2018 [6/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:53:37 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5345333 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:55:09 BRT 2018 [7/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:55:09 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.76835 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:56:55 BRT 2018 [8/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:56:55 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.53478336 min (Actual time)
+Starting system at -------------> Fri Jul 13 20:58:27 BRT 2018 [9/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 20:58:27 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5677 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:00:01 BRT 2018 [10/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:00:01 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.56764996 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:01:35 BRT 2018 [11/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:01:35 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5678834 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:03:09 BRT 2018 [12/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:03:09 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.73433334 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:04:53 BRT 2018 [13/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:04:54 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.56831664 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:06:28 BRT 2018 [14/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:06:28 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5344 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:08:00 BRT 2018 [15/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:08:00 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.56764996 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:09:34 BRT 2018 [16/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:09:34 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5346 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:11:06 BRT 2018 [17/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:11:06 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5678333 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:12:40 BRT 2018 [18/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:12:40 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5346667 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:14:12 BRT 2018 [19/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:14:12 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.53463334 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:15:44 BRT 2018 [20/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:15:44 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.53455 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:17:16 BRT 2018 [21/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:17:17 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5351 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:18:49 BRT 2018 [22/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:18:49 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5345667 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:20:21 BRT 2018 [23/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:20:21 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.5679167 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:21:55 BRT 2018 [24/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:21:55 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.53455 min (Actual time)
+Starting system at -------------> Fri Jul 13 21:23:27 BRT 2018 [25/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Fri Jul 13 21:23:27 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.60105 min (Actual time)
+Starting system at -------------> Sat Jul 14 00:20:28 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 00:20:28 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,19 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Sat Jul 14 00:22:04 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 00:22:04 BRT 2018
+Run for: 0.73796666 min (Actual time)
+Starting system at -------------> Sat Jul 14 00:22:12 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 00:22:12 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,19 min
+Message production finished!
+Number of messages produced: 1000
+Actual production time ---------> 0,19 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Sat Jul 14 00:24:08 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 00:24:08 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Sat Jul 14 00:25:08 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 00:25:08 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Sat Jul 14 00:26:03 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 00:26:04 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.73731667 min (Actual time)
+Starting system at -------------> Sat Jul 14 00:27:48 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 00:27:48 BRT 2018
+Starting system at -------------> Sat Jul 14 01:36:00 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:36:00 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Sat Jul 14 01:46:24 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:46:25 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Sat Jul 14 01:47:06 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:47:06 BRT 2018
+Starting system at -------------> Sat Jul 14 01:47:24 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:47:24 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Sat Jul 14 01:48:53 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:48:53 BRT 2018
+Starting system at -------------> Sat Jul 14 01:52:57 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:52:57 BRT 2018
+Starting system at -------------> Sat Jul 14 01:53:43 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:53:43 BRT 2018
+Starting system at -------------> Sat Jul 14 01:53:50 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:53:50 BRT 2018
+Starting system at -------------> Sat Jul 14 01:57:25 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:57:26 BRT 2018
+Starting system at -------------> Sat Jul 14 01:57:42 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:57:42 BRT 2018
+Starting system at -------------> Sat Jul 14 01:57:48 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 01:57:48 BRT 2018
+Starting system at -------------> Sat Jul 14 09:45:55 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 09:45:56 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Starting system at -------------> Sat Jul 14 09:46:45 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 09:46:45 BRT 2018
+Starting system at -------------> Sat Jul 14 09:47:06 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 09:47:06 BRT 2018
+Starting system at -------------> Sat Jul 14 09:49:16 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 09:49:17 BRT 2018
+Starting system at -------------> Sat Jul 14 09:50:00 BRT 2018 [1/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 09:50:00 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...
+Run for: 0.70371664 min (Actual time)
+Starting system at -------------> Sat Jul 14 09:51:42 BRT 2018 [2/25]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 1000
+Total production time ---> 0,17 min
+Starting workers... 
+System running...
+Message generation started at: Sat Jul 14 09:51:42 BRT 2018
+Number of messages produced: 1000
+Actual production time ---------> 0,18 min
+Message production finished!
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 23000
+System stopped!
+Cleaning up heap...

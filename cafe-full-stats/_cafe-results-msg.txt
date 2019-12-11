@@ -1,0 +1,639 @@
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5015666666666667	0.0026041666666666665	0.054427083333333334	19.85631561279297	114.93875122070312	20000
+1	10	1000	0.5005833333333334	0.00234375	0.03333333333333333	20.0484619140625	83.02728271484375	20000
+1	10	1000	0.5005666666666666	5.208333333333333E-4	0.03333333333333333	18.22351837158203	53.59502410888672	20000
+1	10	1000	0.5011333333333333	0.0015625	0.03177083333333333	18.622604370117188	35.21186828613281	20000
+1	10	1000	0.5005333333333334	0.0013020833333333333	0.0328125	18.817970275878906	17.511367797851562	20000
+1	10	1000	0.5005833333333334	0.003125	0.03307291666666667	18.811233520507812	34.616188049316406	20000
+1	10	1000	0.8341999999999999	0.004166666666666667	0.04244791666666667	19.176055908203125	97.62306213378906	20000
+1	10	1000	0.5007	0.00234375	0.034375	19.369232177734375	26.404678344726562	20000
+1	10	1000	0.5006166666666666	0.003125	0.03802083333333333	19.547149658203125	25.270721435546875	20000
+1	10	1000	0.5005833333333334	0.00234375	0.039322916666666666	19.537734985351562	36.179542541503906	20000
+1	10	1000	0.5005166666666666	0.0033854166666666668	0.03515625	19.61608123779297	53.81513214111328	20000
+1	10	1000	0.5028	0.0015625	0.0328125	19.564071655273438	17.906280517578125	20000
+1	10	1000	0.5004666666666666	0.0018229166666666667	0.03046875	19.576736450195312	36.11005401611328	20000
+1	10	1000	0.5005000000000001	7.8125E-4	0.02890625	19.679908752441406	18.817794799804688	20000
+1	10	1000	1.5729	0.0020833333333333333	0.03802083333333333	19.70862579345703	111.66387176513672	20000
+1	10	1000	0.5005000000000001	0.0020833333333333333	0.029427083333333333	19.760986328125	30.39081573486328	20000
+1	10	1000	1.3679	0.0026041666666666665	0.0390625	19.853866577148438	43.68486785888672	20000
+1	10	1000	0.5004666666666666	0.00234375	0.03203125	19.916030883789062	132.22626495361328	20000
+1	10	1000	0.5005333333333334	0.0013020833333333333	0.030208333333333334	19.944984436035156	94.06290435791016	20000
+1	10	1000	1.1717166666666665	0.0026041666666666665	0.036458333333333336	20.001976013183594	120.62108612060547	20000
+1	10	1000	1.8345166666666666	0.0018229166666666667	0.01640625	20.066627502441406	143.0414047241211	20000
+1	10	1000	0.5006166666666666	0.0	0.0	20.2000732421875	48.409400939941406	20000
+1	10	1000	0.5008833333333333	2.6041666666666666E-4	2.6041666666666666E-4	20.25164794921875	18.089500427246094	20000
+1	10	1000	0.5008666666666667	0.0	0.0	20.322471618652344	37.425758361816406	20000
+1	10	1000	0.50085	0.0	0.0	20.37671661376953	88.85907745361328	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5017	0.0033854166666666668	0.04765625	20.287216186523438	67.72864532470703	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5020166666666667	0.0078125	0.0546875	20.398391723632812	37.576866149902344	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.50205	0.0	0.007291666666666667	20.21312713623047	25.967201232910156	20000
+1	10	1000	0.5019	2.6041666666666666E-4	0.0033854166666666668	18.672996520996094	25.975059509277344	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5009333333333333	0.002864583333333333	0.0390625	20.39373016357422	38.410499572753906	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5008833333333333	0.00234375	0.044270833333333336	20.09814453125	66.693115234375	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5008833333333333	0.0033854166666666668	0.04505208333333333	20.039474487304688	54.74028778076172	20000
+1	10	1000	0.50095	0.005208333333333333	0.046614583333333334	20.04132080078125	103.59747314453125	20000
+1	10	1000	0.5005333333333334	0.0013020833333333333	0.024479166666666666	20.02600860595703	15.162040710449219	20000
+1	10	1000	0.5006	0.0015625	0.03125	19.385353088378906	80.88939666748047	20000
+1	10	1000	0.5005166666666666	0.0013020833333333333	0.028385416666666666	18.286880493164062	27.300437927246094	20000
+1	10	1000	0.5007666666666667	0.007552083333333333	0.04609375	18.245521545410156	52.151702880859375	20000
+1	10	1000	0.5009666666666667	0.00234375	0.046614583333333334	18.460372924804688	43.120697021484375	20000
+1	10	1000	0.5007166666666667	0.005208333333333333	0.042708333333333334	18.509559631347656	34.905967712402344	20000
+1	10	1000	0.50085	0.002864583333333333	0.04140625	18.866897583007812	39.244178771972656	20000
+1	10	1000	0.50145	0.0036458333333333334	0.038802083333333334	18.945838928222656	15.347610473632812	20000
+1	10	1000	0.5008	0.00234375	0.029427083333333333	18.956680297851562	19.76483154296875	20000
+1	10	1000	0.5010333333333333	0.004166666666666667	0.04140625	18.90357208251953	36.652748107910156	20000
+1	10	1000	0.5008333333333334	0.0033854166666666668	0.044270833333333336	19.130477905273438	31.021018981933594	20000
+1	10	1000	0.5009166666666667	0.003125	0.040625	19.07514190673828	27.28277587890625	20000
+1	10	1000	0.5008666666666667	0.00234375	0.039322916666666666	19.277015686035156	30.039688110351562	20000
+1	10	1000	0.5013666666666666	0.00390625	0.037760416666666664	19.244178771972656	30.069259643554688	20000
+1	10	1000	0.5007333333333334	0.0015625	0.02578125	19.400672912597656	31.491233825683594	20000
+1	10	1000	0.5007333333333334	0.0018229166666666667	0.027864583333333335	19.323890686035156	31.033981323242188	20000
+1	10	1000	0.5007166666666667	0.0036458333333333334	0.03697916666666667	19.4417724609375	30.11029815673828	20000
+1	10	1000	0.5005833333333334	0.0026041666666666665	0.028125	19.349815368652344	31.0020751953125	20000
+1	10	1000	0.5006333333333334	0.0036458333333333334	0.031510416666666666	19.4364013671875	31.05609893798828	20000
+1	10	1000	0.5006333333333334	0.003125	0.027604166666666666	19.409225463867188	30.977462768554688	20000
+1	10	1000	0.5005000000000001	0.003125	0.03177083333333333	19.43560791015625	31.04051971435547	20000
+1	10	1000	0.5006333333333334	0.0026041666666666665	0.028645833333333332	19.424659729003906	30.980575561523438	20000
+1	10	1000	0.5010833333333333	0.00234375	0.03411458333333333	19.525352478027344	31.061538696289062	20000
+1	10	1000	0.5006666666666667	0.00390625	0.04375	19.53844451904297	29.69416046142578	20000
+1	10	1000	0.5007166666666667	0.004427083333333333	0.03802083333333333	19.750442504882812	31.071136474609375	20000
+1	10	1000	0.50065	0.002864583333333333	0.029427083333333333	19.684852600097656	27.743263244628906	20000
+1	10	1000	0.5005166666666666	0.0026041666666666665	0.026041666666666668	19.86980438232422	31.027320861816406	20000
+1	10	1000	0.5005166666666666	0.0013020833333333333	0.02734375	19.765701293945312	31.002670288085938	20000
+1	10	1000	0.5042666666666666	0.003125	0.030729166666666665	19.92333984375	30.104469299316406	20000
+1	10	1000	0.5006666666666667	0.00390625	0.03619791666666667	19.78528594970703	31.03966522216797	20000
+1	10	1000	0.5007833333333334	0.00546875	0.06276041666666667	20.153182983398438	17.977874755859375	20000
+1	10	1000	0.50065	0.004166666666666667	0.03984375	19.858245849609375	31.044952392578125	20000
+1	10	1000	0.5007833333333334	0.00234375	0.03463541666666667	20.049514770507812	29.6175537109375	20000
+1	10	1000	0.5006166666666666	0.0020833333333333333	0.027864583333333335	19.906166076660156	31.035682678222656	20000
+1	10	1000	0.5007666666666667	0.003125	0.037760416666666664	20.090667724609375	31.054405212402344	20000
+1	10	1000	0.5005833333333334	0.003125	0.03046875	19.94097137451172	31.03632354736328	20000
+1	10	1000	0.5005166666666666	0.00234375	0.027083333333333334	20.100250244140625	31.061203002929688	20000
+1	10	1000	0.5007	0.0020833333333333333	0.03854166666666667	19.839805603027344	31.041343688964844	20000
+1	10	1000	0.5006333333333334	0.0018229166666666667	0.028125	20.20257568359375	31.023208618164062	20000
+1	10	1000	0.50065	0.0033854166666666668	0.027864583333333335	19.929481506347656	31.040443420410156	20000
+1	10	1000	0.5005333333333334	0.004166666666666667	0.039322916666666666	20.078895568847656	31.052757263183594	20000
+1	10	1000	0.5007833333333334	0.0046875	0.052083333333333336	19.98029327392578	31.002403259277344	20000
+1	10	1000	0.50135	0.0013020833333333333	0.03229166666666667	20.099403381347656	31.054061889648438	20000
+1	10	1000	0.5006666666666667	0.0033854166666666668	0.0296875	19.992263793945312	31.054000854492188	20000
+1	10	1000	0.5007333333333334	0.0020833333333333333	0.030989583333333334	20.16900634765625	30.798294067382812	20000
+1	10	1000	0.50065	0.0026041666666666665	0.0296875	20.07036590576172	30.78339385986328	20000
+1	10	1000	0.5006166666666666	0.002864583333333333	0.029947916666666668	20.309234619140625	30.815582275390625	20000
+1	10	1000	0.50095	0.0018229166666666667	0.030208333333333334	20.22704315185547	30.818931579589844	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5008166666666667	0.023958333333333335	0.09088541666666666	20.470230102539062	109.96710205078125	20000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.16751666666666667	0.0	0.0	14.596176147460938	33.69822692871094	0
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.16756666666666667	0.0	0.0	14.666091918945312	33.13133239746094	0
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.1673	0.0	0.0	14.68548583984375	32.87810516357422	0
+1	10	1000	0.1671	0.0	0.0	14.877174377441406	19.33782958984375	0
+1	10	1000	0.1672	0.0	0.0	15.074195861816406	19.537841796875	0
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.16791666666666666	0.0	0.0	15.034698486328125	33.20178985595703	0
+1	10	1000	0.16708333333333333	0.0	0.0	15.188545227050781	19.339797973632812	0
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5011166666666667	0.0078125	0.04348958333333333	21.537582397460938	28.3668212890625	6000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5009	0.01640625	0.058854166666666666	22.199928283691406	25.779281616210938	6000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5012833333333334	0.029427083333333333	0.08177083333333333	22.520896911621094	120.35582733154297	6000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5007666666666667	0.028385416666666666	0.07395833333333333	22.50262451171875	59.73290252685547	7000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.50095	0.033854166666666664	0.07291666666666667	22.406219482421875	68.82609558105469	7000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5007333333333334	0.030729166666666665	0.07760416666666667	22.42150115966797	33.793365478515625	7000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5006166666666666	0.05078125	0.1296875	23.042373657226562	38.113006591796875	12000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5006166666666666	0.045572916666666664	0.12786458333333334	22.666976928710938	39.153602600097656	13000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5007833333333334	0.05	0.12916666666666668	22.647506713867188	37.070770263671875	13000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.50075	0.0546875	0.12760416666666666	22.886550903320312	41.495628356933594	13000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340666666666667	0.0	0.0026041666666666665	13.847801208496094	16.590682983398438	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33415	5.208333333333333E-4	0.003125	13.87823486328125	16.601943969726562	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3346	7.8125E-4	0.00234375	13.894966125488281	16.601638793945312	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3343833333333333	5.208333333333333E-4	0.0033854166666666668	13.925193786621094	16.601661682128906	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33435	0.0	0.0026041666666666665	13.741249084472656	16.601760864257812	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3343666666666667	0.0	0.003125	13.966842651367188	16.601699829101562	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33385	0.0	2.6041666666666666E-4	14.5751953125	10.381805419921875	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3345	2.6041666666666666E-4	0.0026041666666666665	13.998390197753906	16.601699829101562	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3347	2.6041666666666666E-4	0.0020833333333333333	13.916709899902344	16.6009521484375	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3342	0.0	0.0026041666666666665	13.814834594726562	16.601829528808594	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3343666666666667	2.6041666666666666E-4	0.002864583333333333	13.901176452636719	16.60089874267578	13
+1	10	1	0.33408333333333334	0.0	5.208333333333333E-4	14.722518920898438	10.198280334472656	13
+1	10	1	0.33426666666666666	5.208333333333333E-4	5.208333333333333E-4	15.076492309570312	10.068473815917969	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3344666666666667	0.0	0.002864583333333333	13.954978942871094	16.631393432617188	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33480000000000004	0.0	0.0026041666666666665	13.830856323242188	16.600982666015625	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3358	0.0	0.0026041666666666665	13.897125244140625	16.601722717285156	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33548333333333336	0.0	0.0026041666666666665	13.856658935546875	16.601829528808594	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33635000000000004	2.6041666666666666E-4	0.0026041666666666665	14.036331176757812	16.601760864257812	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33425	5.208333333333333E-4	0.00234375	13.822708129882812	16.601844787597656	14
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3359666666666667	5.208333333333333E-4	0.0026041666666666665	13.829841613769531	16.601722717285156	14
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33485000000000004	2.6041666666666666E-4	0.00234375	13.948043823242188	16.601577758789062	17
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3344833333333333	0.0	0.002864583333333333	14.038093566894531	16.601852416992188	17
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3346666666666666	2.6041666666666666E-4	0.002864583333333333	13.95806884765625	16.601760864257812	18
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3353	7.8125E-4	0.003125	13.990768432617188	16.600914001464844	18
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3354666666666667	5.208333333333333E-4	0.003125	13.990341186523438	16.600921630859375	18
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3355166666666667	5.208333333333333E-4	0.003125	13.996711730957031	17.2508544921875	18
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33571666666666666	2.6041666666666666E-4	0.002864583333333333	14.063125610351562	17.251754760742188	18
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3358166666666667	0.0	0.00234375	14.168327331542969	17.105247497558594	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33471666666666666	0.0	0.0026041666666666665	14.0235595703125	17.128662109375	23
+1	10	1	0.3341166666666667	0.0	5.208333333333333E-4	14.816650390625	10.550186157226562	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3344166666666667	0.0	0.002864583333333333	13.997406005859375	17.10521697998047	23
+1	10	1	0.33408333333333334	2.6041666666666666E-4	7.8125E-4	14.658164978027344	10.551155090332031	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3344	0.0	0.002864583333333333	13.968788146972656	17.105125427246094	23
+1	10	1	0.33381666666666665	0.0	7.8125E-4	14.646598815917969	10.551376342773438	23
+1	10	1	0.33383333333333337	2.6041666666666666E-4	0.0010416666666666667	15.215301513671875	10.381118774414062	23
+1	10	1	0.33386666666666664	5.208333333333333E-4	5.208333333333333E-4	15.831657409667969	10.376335144042969	23
+1	10	1	0.33399999999999996	0.0	5.208333333333333E-4	16.235183715820312	10.387886047363281	23
+1	10	1	0.33383333333333337	0.0	2.6041666666666666E-4	16.5267333984375	10.3836669921875	23
+1	10	1	0.33408333333333334	2.6041666666666666E-4	5.208333333333333E-4	16.780105590820312	10.390380859375	23
+1	10	1	0.33408333333333334	0.0	2.6041666666666666E-4	17.013755798339844	10.386711120605469	23
+1	10	1	0.33383333333333337	0.0	7.8125E-4	17.181495666503906	10.387321472167969	23
+1	10	1	0.3337833333333334	2.6041666666666666E-4	2.6041666666666666E-4	17.2989501953125	10.388046264648438	23
+1	10	1	0.33371666666666666	0.0	5.208333333333333E-4	17.472213745117188	10.393348693847656	23
+1	10	1	0.33386666666666664	2.6041666666666666E-4	5.208333333333333E-4	17.62572479248047	11.0452880859375	23
+1	10	1	0.33376666666666666	2.6041666666666666E-4	5.208333333333333E-4	17.749916076660156	10.397186279296875	23
+1	10	1	0.33383333333333337	2.6041666666666666E-4	2.6041666666666666E-4	17.86151123046875	10.163116455078125	23
+1	10	1	0.3343666666666667	2.6041666666666666E-4	5.208333333333333E-4	18.026588439941406	10.158439636230469	23
+1	10	1	0.3339666666666667	0.0	5.208333333333333E-4	18.13025665283203	10.166748046875	23
+1	10	1	0.33376666666666666	0.0	0.0	18.31830596923828	10.162055969238281	23
+1	10	1	0.3337833333333334	2.6041666666666666E-4	5.208333333333333E-4	18.461204528808594	9.841728210449219	23
+1	10	1	0.33386666666666664	0.0	5.208333333333333E-4	18.62873077392578	10.166488647460938	23
+1	10	1	0.3337833333333334	0.0	0.0	18.74188232421875	10.166839599609375	23
+1	10	1	0.3337833333333334	0.0	2.6041666666666666E-4	18.824562072753906	10.166976928710938	23
+1	10	1	0.3339166666666667	2.6041666666666666E-4	5.208333333333333E-4	18.80767822265625	10.167129516601562	23
+1	10	1	0.33385	0.0	2.6041666666666666E-4	18.856781005859375	9.748390197753906	23
+1	10	1	0.33381666666666665	0.0	0.0	18.932579040527344	9.753952026367188	23
+1	10	1	0.33388333333333337	0.0	2.6041666666666666E-4	18.988494873046875	10.405288696289062	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3372333333333334	2.6041666666666666E-4	0.0036458333333333334	14.0902099609375	17.296493530273438	23
+1	10	1	0.33398333333333335	2.6041666666666666E-4	0.0010416666666666667	14.717559814453125	10.53338623046875	23
+1	10	1	0.33476666666666666	0.0	5.208333333333333E-4	15.249885559082031	10.365737915039062	23
+1	10	1	0.33421666666666666	5.208333333333333E-4	0.0010416666666666667	15.948455810546875	10.359649658203125	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340166666666667	2.6041666666666666E-4	2.6041666666666666E-4	16.334434509277344	10.364555358886719	23
+1	10	1	0.33405	0.0	5.208333333333333E-4	16.53150177001953	10.372535705566406	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3343333333333333	5.208333333333333E-4	0.0036458333333333334	14.260940551757812	17.310073852539062	23
+1	10	1	0.33408333333333334	0.0	7.8125E-4	14.869430541992188	10.540107727050781	23
+1	10	1	0.33416666666666667	2.6041666666666666E-4	5.208333333333333E-4	15.342575073242188	10.370185852050781	23
+1	10	1	0.33405	2.6041666666666666E-4	5.208333333333333E-4	16.01006317138672	10.365203857421875	23
+1	10	1	0.3339166666666667	2.6041666666666666E-4	2.6041666666666666E-4	16.370018005371094	10.375900268554688	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3344333333333333	2.6041666666666666E-4	0.0020833333333333333	13.879135131835938	15.988182067871094	11
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33476666666666666	2.6041666666666666E-4	0.002864583333333333	14.23443603515625	17.30921173095703	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33501666666666663	2.6041666666666666E-4	0.0026041666666666665	14.147987365722656	17.310073852539062	23
+1	10	1	0.33399999999999996	0.0	0.0010416666666666667	14.78350830078125	10.539443969726562	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33403333333333335	2.6041666666666666E-4	5.208333333333333E-4	15.327583312988281	10.370216369628906	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.6694833333333333	0.0984375	0.22317708333333333	21.169395446777344	102.68521881103516	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.6689833333333334	0.09739583333333333	0.2109375	20.402198791503906	58.986656188964844	23000
+1	10	1000	0.5017833333333334	0.0765625	0.16276041666666666	20.58258819580078	29.128860473632812	23000
+1	10	1000	0.5017833333333334	0.08255208333333333	0.15390625	20.79454803466797	33.07001495361328	23000
+1	10	1000	0.5017833333333334	0.0859375	0.16744791666666667	20.506332397460938	42.41455841064453	23000
+1	10	1000	0.5017833333333334	0.078125	0.16614583333333333	20.836029052734375	45.708457946777344	23000
+1	10	1000	0.5017833333333334	0.084375	0.17291666666666666	20.032241821289062	31.928436279296875	23000
+1	10	1000	0.50205	0.078125	0.15390625	20.267654418945312	35.49884033203125	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.5023000000000001	0.08645833333333333	0.19348958333333333	20.14569854736328	58.84624481201172	23000
+1	10	1000	0.6678833333333334	0.08046875	0.171875	20.553070068359375	68.6409683227539	23000
+1	10	1000	0.8362999999999999	0.10442708333333334	0.2390625	20.623443603515625	64.94598388671875	23000
+1	10	1000	0.6674333333333333	0.10598958333333333	0.22057291666666667	20.157630920410156	55.32312774658203	23000
+1	10	1000	0.6673166666666667	0.08515625	0.18020833333333333	20.250167846679688	48.773704528808594	23000
+1	10	1000	0.5005000000000001	0.08541666666666667	0.17291666666666666	20.48247528076172	46.07830810546875	23000
+1	10	1000	0.6676	0.10130208333333333	0.21015625	20.639419555664062	46.70777893066406	23000
+1	10	1000	0.5006166666666666	0.0875	0.17864583333333334	20.786705017089844	55.749244689941406	23000
+1	10	1000	0.5006	0.08984375	0.17916666666666667	20.834091186523438	50.12532043457031	23000
+1	10	1000	0.5004166666666666	0.08932291666666667	0.17786458333333333	20.76056671142578	49.02771759033203	23000
+1	10	1000	0.5004833333333333	0.08932291666666667	0.18411458333333333	20.808326721191406	59.74705505371094	23000
+1	10	1000	0.66715	0.09479166666666666	0.20833333333333334	20.853515625	64.07743835449219	23000
+1	10	1000	0.5005833333333334	0.08619791666666667	0.18125	20.897865295410156	49.76200866699219	23000
+1	10	1000	0.5004166666666666	0.08515625	0.16614583333333333	20.94116973876953	48.991851806640625	23000
+1	10	1000	0.5004666666666666	0.08411458333333334	0.18489583333333334	21.0291748046875	49.579612731933594	23000
+1	10	1000	0.5005833333333334	0.08645833333333333	0.17604166666666668	21.122703552246094	47.395103454589844	23000
+1	10	1000	0.5004833333333333	0.1	0.19817708333333334	21.191802978515625	48.09516143798828	23000
+1	10	1000	0.5005833333333334	0.08671875	0.17630208333333333	21.196563720703125	49.741676330566406	23000
+1	10	1000	0.50065	0.08932291666666667	0.17630208333333333	21.227012634277344	63.957008361816406	23000
+1	10	1000	0.5005166666666666	0.08645833333333333	0.17421875	21.258079528808594	48.71717834472656	23000
+1	10	1000	0.5008	0.09609375	0.19088541666666667	21.38488006591797	68.721923828125	23000
+1	10	1000	0.5005166666666666	0.08125	0.16875	21.44366455078125	50.32920837402344	23000
+1	10	1000	0.5006333333333334	0.08203125	0.16901041666666666	21.4893798828125	50.390602111816406	23000
+1	10	1000	0.50055	0.08802083333333334	0.18255208333333334	21.56165313720703	69.75932312011719	23000
+1	10	1000	0.5005166666666666	0.08984375	0.17369791666666667	21.667587280273438	50.42317199707031	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.6678	0.12760416666666666	0.26197916666666665	20.034156799316406	70.15045928955078	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.8345166666666667	0.14427083333333332	0.2955729166666667	20.267074584960938	70.91149139404297	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.6676166666666667	0.11588541666666667	0.22890625	20.05750274658203	68.25518035888672	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.6676666666666667	0.1	0.21145833333333333	19.9644775390625	59.343910217285156	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1000	0.6675166666666666	0.09765625	0.21901041666666668	29.791038513183594	63.506248474121094	23000
+1	10	1000	0.5005666666666666	0.09609375	0.190625	28.79058074951172	55.26249694824219	23000
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33393333333333336	0.0	0.0015625	22.833045959472656	26.17168426513672	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3345	5.208333333333333E-4	0.0015625	22.527511596679688	24.99742889404297	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340166666666667	2.6041666666666666E-4	0.0018229166666666667	23.975074768066406	25.657447814941406	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33403333333333335	2.6041666666666666E-4	0.0015625	24.408164978027344	25.657569885253906	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33416666666666667	0.0	7.8125E-4	24.55738067626953	26.308425903320312	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33416666666666667	2.6041666666666666E-4	0.0018229166666666667	25.564178466796875	28.957626342773438	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33421666666666666	0.0	0.0015625	24.44470977783203	25.69915771484375	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33403333333333335	0.0	0.0020833333333333333	24.620994567871094	26.349388122558594	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33416666666666667	0.0	0.0018229166666666667	24.18560028076172	27.007179260253906	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3339666666666667	5.208333333333333E-4	0.0015625	24.100418090820312	26.349525451660156	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33403333333333335	2.6041666666666666E-4	0.0018229166666666667	24.102935791015625	27.653656005859375	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340666666666667	2.6041666666666666E-4	0.0015625	23.528488159179688	26.999404907226562	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33415	2.6041666666666666E-4	0.0018229166666666667	24.07038116455078	26.334197998046875	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340666666666667	5.208333333333333E-4	0.0018229166666666667	22.31586456298828	26.94342803955078	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33398333333333335	2.6041666666666666E-4	0.0015625	22.24908447265625	26.970001220703125	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3341	5.208333333333333E-4	0.0020833333333333333	22.16773223876953	26.97124481201172	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340666666666667	0.0	0.0015625	23.315650939941406	32.16888427734375	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33403333333333335	0.0	0.0018229166666666667	22.20513153076172	27.616775512695312	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33398333333333335	2.6041666666666666E-4	0.0015625	23.27893829345703	32.5	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3345	2.6041666666666666E-4	0.0018229166666666667	23.87059783935547	13.231597900390625	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3344333333333333	0.0	0.00234375	23.348365783691406	16.410560607910156	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33408333333333334	2.6041666666666666E-4	0.0020833333333333333	22.343284606933594	26.314125061035156	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33408333333333334	0.0	0.0010416666666666667	23.556434631347656	15.530494689941406	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3341166666666667	0.0	0.0015625	23.93714141845703	12.692588806152344	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33418333333333333	0.0	0.0013020833333333333	22.230819702148438	26.95306396484375	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3343	0.0	7.8125E-4	22.1728515625	26.303421020507812	13
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33418333333333333	2.6041666666666666E-4	0.0018229166666666667	22.452293395996094	28.91339874267578	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3342333333333333	0.0	0.0013020833333333333	24.077316284179688	13.992645263671875	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33403333333333335	0.0	7.8125E-4	23.56853485107422	12.475929260253906	6
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340666666666667	7.8125E-4	0.0018229166666666667	23.819068908691406	11.070579528808594	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340666666666667	0.0	7.8125E-4	23.76215362548828	12.687667846679688	6
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33388333333333337	2.6041666666666666E-4	7.8125E-4	25.165328979492188	23.016799926757812	12
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33385	0.0	2.6041666666666666E-4	26.045791625976562	34.259483337402344	12
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33399999999999996	0.0	0.0015625	22.24925994873047	28.279457092285156	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33445	5.208333333333333E-4	0.0015625	24.04706573486328	13.718795776367188	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3341333333333333	0.0	0.0013020833333333333	23.733154296875	17.3040771484375	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340666666666667	5.208333333333333E-4	0.0010416666666666667	23.27325439453125	32.5	7
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33416666666666667	2.6041666666666666E-4	0.0015625	23.41535186767578	10.342376708984375	7
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3341166666666667	2.6041666666666666E-4	0.0015625	21.944007873535156	26.293701171875	7
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33435	0.0	0.00234375	22.502830505371094	28.260231018066406	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33399999999999996	2.6041666666666666E-4	0.0013020833333333333	24.737548828125	15.851348876953125	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3341	0.0	0.0020833333333333333	25.474594116210938	24.45696258544922	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33425	7.8125E-4	0.00234375	24.19757080078125	15.470497131347656	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33394999999999997	7.8125E-4	0.0010416666666666667	24.879257202148438	25.020339965820312	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3340166666666667	0.0	5.208333333333333E-4	25.297027587890625	27.239013671875	12
+1	10	1	0.3339666666666667	0.0	7.8125E-4	25.75811004638672	29.821746826171875	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33405	2.6041666666666666E-4	2.6041666666666666E-4	27.176002502441406	22.231285095214844	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33421666666666666	0.0	0.0018229166666666667	24.30786895751953	16.610565185546875	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.33385	2.6041666666666666E-4	0.0010416666666666667	25.281341552734375	31.960235595703125	23
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)
+1	10	1	0.3341	0.0	0.0015625	24.626564025878906	19.8525390625	12
+Threads	Rate	Msgs	ATime	STime	CTime	SMemory	HMemory	WUProcessed	(Times in Minutes, Memory in MB)

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<person>
+    
+    <name>Thainan</name>
+    
+    <adress>Rua 7 de Setembro</adress>
+    
+    <cpf>00000000000</cpf>
+    
+    <birth>01/11/1995</birth>
+    
+    <income>5000</income>
+    
+    <value>15000</value>
+    
+    <instalment>12</instalment>
+    
+    <fiador>Bruna</fiador>
+    
+    <garantia>sim</garantia>
+    
+</person>

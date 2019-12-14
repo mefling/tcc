@@ -441,7 +441,7 @@ public class Integration extends Process {
                         interestRate.setTextContent("5");
                         root.appendChild(interestRate);
 
-                        Message<Document> outMsg = new Message<Document>();
+                        Message<Document> outMsg = new Message<Document>(request);
                         outMsg.setBody(x9);
 
                         XMLHandler.writeXmlFile(outMsg.getBody(), "debugs/bankX_port_X9.xml");
@@ -531,7 +531,7 @@ public class Integration extends Process {
                         interestRate.setTextContent("10");
                         root.appendChild(interestRate);
 
-                        Message<Document> outMsg = new Message<Document>();
+                        Message<Document> outMsg = new Message<Document>(request);
                         outMsg.setBody(x10);
 
                         XMLHandler.writeXmlFile(outMsg.getBody(), "debugs/bankY_port_X10.xml");
@@ -621,7 +621,7 @@ public class Integration extends Process {
                         interestRate.setTextContent("15");
                         root.appendChild(interestRate);
 
-                        Message<Document> outMsg = new Message<Document>();
+                        Message<Document> outMsg = new Message<Document>(request);
                         outMsg.setBody(x11);
 
                         XMLHandler.writeXmlFile(outMsg.getBody(), "debugs/bankZ_port_X11.xml");
@@ -1172,13 +1172,11 @@ public class Integration extends Process {
                     Element bank = docX5.createElement("bank");
                     bank.setTextContent(bk.getTextContent());
                     rootX5.appendChild(bank);
-
+                    
                     Message<Document> outMsg = new Message<Document>(inMsg);
                     outMsg.setBody(docX5);
-
+                    
                     XMLHandler.writeXmlFile(outMsg.getBody(), "debugs/T13_" + bk.getTextContent() + i.toString() + Integer.toString(banks.getLength()) + ".xml");
-
-                    System.out.println("Splitter: " + bk.getTextContent() + " - " + outMsg.getHeader());
 
                     exchange.output[0].add(outMsg);
 
@@ -1391,14 +1389,13 @@ public class Integration extends Process {
                 interestRate.setTextContent(x9.getElementsByTagName("interestRate").item(0).getTextContent());
                 root.appendChild(interestRate);
 
-                Message<Document> outMsg = new Message<Document>();
+                Message<Document> outMsg = new Message<Document>(inMsg1);
                 outMsg.setBody(x12);
 
                 // DEBUG
                 XMLHandler.writeXmlFile(outMsg.getBody(), "debugs/T19_X12.xml");
                 // DEBUG
 
-                System.out.println("Correlator X Header: " + outMsg.getHeader());
 
                 exchng.output[0].add(outMsg);
 
@@ -1572,14 +1569,13 @@ public class Integration extends Process {
                 interestRate.setTextContent(x10.getElementsByTagName("interestRate").item(0).getTextContent());
                 root.appendChild(interestRate);
 
-                Message<Document> outMsg = new Message<Document>();
+                Message<Document> outMsg = new Message<Document>(inMsg1);
                 outMsg.setBody(x13);
 
                 // DEBUG
                 XMLHandler.writeXmlFile(outMsg.getBody(), "debugs/T24_X13.xml");
                 // DEBUG
 
-                System.out.println("Correlator Y Header: " + outMsg.getHeader());
 
                 exchng.output[0].add(outMsg);
 
@@ -1745,14 +1741,13 @@ public class Integration extends Process {
                 interestRate.setTextContent(x11.getElementsByTagName("interestRate").item(0).getTextContent());
                 root.appendChild(interestRate);
 
-                Message<Document> outMsg = new Message<Document>();
+                Message<Document> outMsg = new Message<Document>(inMsg1);
                 outMsg.setBody(x14);
 
                 // DEBUG
                 XMLHandler.writeXmlFile(outMsg.getBody(), "debugs/T29_X14.xml");
                 // DEBUG
 
-                System.out.println("Correlator Z Header: " + outMsg.getHeader());
 
                 exchng.output[0].add(outMsg);
 
@@ -1772,41 +1767,27 @@ public class Integration extends Process {
         addTask(task[29]);
 
         // AGGREGATOR T31
-        task[30] = new Aggregator("AGGREGATOR T31", 3, 1) {
+        task[30] = new Aggregator("AGGREGATOR T31") {
             @Override
             public void doWork(Exchange exchange) throws TaskExecutionException {
-
-                System.out.println("Aggregator");
 
                 HashMap<String, String> data = new HashMap<String, String>();
 
                 Document docHere = null;
 
                 Message<Document> outMsg = new Message<Document>();
-
-                int count = 0;
                 
                 while (!exchange.input[0].isEmpty()) {
 
-                    count++;
                     
-                    System.out.println("While Aggregator");
-
                     Message<Document> msg = (Message<Document>) exchange.input[0].poll();
 
                     docHere = msg.getBody();
 
-                    // DEBUG
-                    XMLHandler.writeXmlFile(docHere, "debugs/T31_TEST" + count + ".xml");
-                    // DEBUG
-
-                    //String XML_NAME = docHere.getFirstChild().getNodeName();
-                    //int numBank = XML_NAME.charAt(8);
-                    //int numBanks = XML_NAME.charAt(9);
                     data.put(docHere.getElementsByTagName("bank").item(0).getTextContent(), docHere.getElementsByTagName("interestRate").item(0).getTextContent());
-
+                    
                 }
-
+                
                 Document x15 = XMLHandler.newDocument();
 
                 Element root = x15.createElement("XMLAGGREGATOR");
@@ -1849,7 +1830,7 @@ public class Integration extends Process {
                 root.appendChild(instalment);
 
                 Element banks = x15.createElement("banks");
-
+                
                 for (Map.Entry<String, String> entry : data.entrySet()) {
                     String k = entry.getKey();
                     String v = entry.getValue();
@@ -1858,6 +1839,8 @@ public class Integration extends Process {
                     bank.setTextContent(k + ": " + v);
                     banks.appendChild(bank);
                 }
+                
+                root.appendChild(banks);
 
                 outMsg.setBody(x15);
 
@@ -1878,8 +1861,6 @@ public class Integration extends Process {
             @Override
             public void doWork(Exchange exchng) throws TaskExecutionException {
                 Message<Document> inMsg = (Message<Document>) exchng.input[0].poll();
-
-                System.out.println("Slimmer");
 
                 Document msgHere = inMsg.getBody();
 
